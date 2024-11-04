@@ -6,4 +6,4 @@ I probably do understand the majority of the topics but since I am not using the
 
 ## Topics
 
-(CAP Theorem)[CAP_Theorem.md]
+[CAP Theorem](CAP_Theorem.md)
