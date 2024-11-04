@@ -11,6 +11,7 @@ I probably do understand the majority of the topics but since I am not using the
 
 ## License
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+For more details about this license, please see the LICENSE.md file or visit:
+https://creativecommons.org/licenses/by-nc/4.0/
