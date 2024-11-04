@@ -7,3 +7,10 @@ I probably do understand the majority of the topics but since I am not using the
 ## Topics
 
 [CAP Theorem](CAP_Theorem.md)
+
+
+## License
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
