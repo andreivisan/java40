@@ -8,6 +8,8 @@ I probably do understand the majority of the topics but since I am not using the
 
 [CAP Theorem](CAP_Theorem.md)
 
+[Consistency Models](Consistency_Models.md)
+
 
 ## License
 
